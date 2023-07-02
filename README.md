@@ -6,8 +6,8 @@ But I wanted to solve it, and I did.
 ## Problem
 
 A fully connected graph of cities, with roads connecting cities, is represented as as a network of edges with varying weights.
-There are edges superfluous to that necessary for a fully connected graph.
-The aim of the challenge is to create an algorithm that removes all superfluous roads such that the resultant fully-connected graph has minimal possibly sum of remaining road weights.
+There are edges superfluous to that necessary for a complete graph with minimal number of roads.
+The aim of the challenge is to create an algorithm that removes all superfluous roads such that the resultant fully-connected graph has minimally possible sum of remaining road weights.
 
 ## Solution
 
