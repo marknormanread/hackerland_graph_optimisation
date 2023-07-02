@@ -3,6 +3,8 @@
 This was done in a hurry over an evening, so code documentation is sparser than ideal.
 But I wanted to solve it, and I did.
 
+The main entry point to the program is the `entry` interactive python notebook in the root directory.
+
 ## Problem
 
 A fully connected graph of cities, with roads connecting cities, is represented as as a network of edges with varying weights.
@@ -33,7 +35,7 @@ Attach Visual Studio Code to the running container.
 This project was developed using Visual Studio Code.
 You probably need to install a few python-related extensions to make it work.
 I recommend running in interactive mode (there are graphs).
-The main entry point to the program is `hackerland/driver.py`.
+The main entry point to the program is the `entry` interactive python notebook in the root directory.
 
 Within the container, all work resides within the directory `/home`.
 unsga3 is installed to the container directory `/unsga3`.
